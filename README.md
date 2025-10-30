@@ -3,13 +3,22 @@
 </div>
 
 <br/>
-<h1 align="center">Hey 👋, I'm Hiten Tanwar</h1>
-<h3 align="center">💻 B.Tech CSE (3rd Year) | ⚡ Creative Coder | 💃 Dancer | 🌱 Always Learning</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h1>Hey 👋, I'm <span style="color:#6C63FF;">Hiten Tanwar</span></h1>
+        <h3>💻 B.Tech CSE (3rd Year) | ⚡ Creative Coder | 💃 Dancer | 🌱 Always Learning</h3>
+      </td>
+      <td>
+        <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="250" alt="Programmer GIF"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
-
-<br/>
-<div align="center"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="500" alt="Programmer GIF"/> </div>
 
 ### 🌟 About Me  
 
@@ -22,26 +31,26 @@
 
 ---
 
-<!-- ### 🧰 Languages & Tools
+### 🧰 Tech Stack  
 
 <div align="center">
-  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-</div> -->
+| **Category** | **Technologies** |
+|---------------|------------------|
+| 💻 **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
+| 🗃️ **Database** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| 📱 **App Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
+| 🌐 **Web Development** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitenfen&show_icons=true&theme=radical" alt="Hiten's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitenfen&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hitenfen&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitenfen&layout=compact&theme=tokyonight" height="170" alt="Top Languages"/>
 </div>
 
 ---
@@ -60,9 +69,8 @@
 ---
 
 <div align="center">
-  
-💬 *“Balancing code, college, and dance — one sem at a time.”* 
 
+💬 *“Balancing code, college, and dance — one sem at a time.”*  
 </div>
 
 <br/>
