@@ -9,7 +9,7 @@
     <tr>
       <td>
         <h1>Hey 👋, I'm <span style="color:#6C63FF;">Hiten Tanwar</span></h1>
-        <h3>💻 B.Tech CSE (4rd Year) | ⚡ Creative Coder | 💃 Dancer | 🌱 Always Learning</h3>
+        <h3>💻 B.Tech CSE (3rd Year) | ⚡ Creative Coder | 💃 Dancer | 🌱 Always Learning</h3>
       </td>
       <td>
         <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="250" alt="Programmer GIF"/>
